@@ -50,9 +50,9 @@ def unauthorize(update,context):
         user_id = reply_message.from_user.id
         if user_id in AUTHORIZED_CHATS:
             AUTHORIZED_CHATS.remove(user_id)
-            msg = 'Person unauthorized to use the bot!'
+            msg = ' তোর বাপের বট, ভাগ এইখান দিয়া!'
         else:
-            msg = 'Person already unauthorized!'
+            msg = 'ভাইজ্ঞা গেছে!'
     with open('authorized_chats.txt', 'a') as file:
         file.truncate(0)
         for i in AUTHORIZED_CHATS:
