@@ -1,16 +1,16 @@
 {
-    "name": "Python-Drive-Bot",
+    "name": "Kana leech zone",
     "description": "Telegram-Direct-Mirror to G-Drive",
-    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "logo": "https://telegra.ph/file/1f66d3932a14d1fbbc70f.jpg",
     "keywords": [
       "telegram",
       "bot",
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://t.me/linux_repo",
-    "success_url": "https://t.me/linux_repo",
+    "repository": "https://t.me/bearzap",
+    "website": "https://t.me/bearzap",
+    "success_url": "https://t.me/bearzap",
     "stack": "container",
     "env": {
       "ENV": {
